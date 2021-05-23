@@ -1,0 +1,426 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<all>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>21.05.2021</date>
+    <time>21:42</time>
+    <textFile>rhrhrhhr</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>21.05.2021</date>
+    <time>21:57</time>
+    <textFile>4</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>21.05.2021</date>
+    <time>21:57</time>
+    <textFile>hrhrhr</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>21.05.2021</date>
+    <time>21:58</time>
+    <textFile>0</textFile>
+    <commit>Удаление файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:25</time>
+    <textFile>9868</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:26</time>
+    <textFile>9868</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:27</time>
+    <textFile>9868</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:30</time>
+    <textFile>9868</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:30</time>
+    <textFile>9868</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:30</time>
+    <textFile>9868</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:30</time>
+    <textFile>9868</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:30</time>
+    <textFile>9868</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>ffefefe</fileName>
+    <date>22.05.2021</date>
+    <time>2:31</time>
+    <textFile>gegege</textFile>
+    <commit>Удаление файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:31</time>
+    <textFile>gegege</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:33</time>
+    <textFile>gegege</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:33</time>
+    <textFile>gegege</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:36</time>
+    <textFile>gegegege</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:36</time>
+    <textFile>gegegege</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:42</time>
+    <textFile>fbfbfbf</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:43</time>
+    <textFile>3</textFile>
+    <commit>Удаление файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:43</time>
+    <textFile>3</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:48</time>
+    <textFile>3</textFile>
+    <commit>Удаление файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:58</time>
+    <textFile>hrhrhr</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:59</time>
+    <textFile>1</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:59</time>
+    <textFile>hhrjhrj</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>2:59</time>
+    <textFile>2</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>3:02</time>
+    <textFile>2</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>3:02</time>
+    <textFile>2</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>3:02</time>
+    <textFile>0</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>3:02</time>
+    <textFile>hd6арркок</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 2</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 1</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>3:03</time>
+    <textFile>hd6арркок</textFile>
+    <commit>Удаление файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>14:06</time>
+    <textFile>rhrhr</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>14:06</time>
+    <textFile>0</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>14:09</time>
+    <textFile>eehehe</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>14:09</time>
+    <textFile>eehehe</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>14:10</time>
+    <textFile>eehehe3242</textFile>
+    <commit>Удаление файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>14:10</time>
+    <textFile>eehehe3242</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>14:13</time>
+    <textFile>hrhrhr</textFile>
+    <commit>Удаление файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>14:13</time>
+    <textFile>hrhrhr</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>14:13</time>
+    <textFile>hrhrhr</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>17:30</time>
+    <textFile>gngngngngngngngn</textFile>
+    <commit>Удаление файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>17:31</time>
+    <textFile>gngngngngngngngn</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>17:31</time>
+    <textFile>gngngngngngngngn</textFile>
+    <commit>Удаление файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>17:31</time>
+    <textFile>gngngngngngngngn</textFile>
+    <commit>Создание файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>17:31</time>
+    <textFile>gngngngngngngngn</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>17:31</time>
+    <textFile>gngngngngngngngn2222</textFile>
+    <commit>Изменение файлов</commit>
+  </log>
+  <log>
+    <firstPath>C:\Users\rusla\Desktop\Папка 1</firstPath>
+    <secondPath>C:\Users\rusla\Desktop\Папка 2</secondPath>
+    <fileName>text.txt</fileName>
+    <date>22.05.2021</date>
+    <time>17:33</time>
+    <textFile>tjttjtjtjt</textFile>
+    <commit>Удаление файлов</commit>
+  </log>
+</all>

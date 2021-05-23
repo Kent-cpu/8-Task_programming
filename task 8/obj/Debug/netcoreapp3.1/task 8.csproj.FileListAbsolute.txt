@@ -13,3 +13,24 @@ C:\Users\rusla\Desktop\Рабочая папка\programming\task 8\task 8\obj\D
 C:\Users\rusla\Desktop\Рабочая папка\programming\task 8\task 8\obj\Debug\netcoreapp3.1\task 8.dll
 C:\Users\rusla\Desktop\Рабочая папка\programming\task 8\task 8\obj\Debug\netcoreapp3.1\task 8.pdb
 C:\Users\rusla\Desktop\Рабочая папка\programming\task 8\task 8\obj\Debug\netcoreapp3.1\task 8.genruntimeconfig.cache
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\bin\Debug\netcoreapp3.1\task 8.exe
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\bin\Debug\netcoreapp3.1\task 8.deps.json
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\bin\Debug\netcoreapp3.1\task 8.runtimeconfig.json
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\bin\Debug\netcoreapp3.1\task 8.runtimeconfig.dev.json
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\bin\Debug\netcoreapp3.1\task 8.dll
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\bin\Debug\netcoreapp3.1\task 8.pdb
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\obj\Debug\netcoreapp3.1\task 8.csprojAssemblyReference.cache
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\obj\Debug\netcoreapp3.1\task_8.Form1.resources
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\obj\Debug\netcoreapp3.1\task 8.csproj.GenerateResource.cache
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\obj\Debug\netcoreapp3.1\task 8.AssemblyInfoInputs.cache
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\obj\Debug\netcoreapp3.1\task 8.AssemblyInfo.cs
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\obj\Debug\netcoreapp3.1\task 8.csproj.CoreCompileInputs.cache
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\obj\Debug\netcoreapp3.1\task 8.dll
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\obj\Debug\netcoreapp3.1\task 8.pdb
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\obj\Debug\netcoreapp3.1\task 8.genruntimeconfig.cache
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\obj\Debug\netcoreapp3.1\task 8.csproj.CopyComplete
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\rusla\Source\Repos\8-Task_programming\task 8\bin\Debug\netcoreapp3.1\Nancy.dll

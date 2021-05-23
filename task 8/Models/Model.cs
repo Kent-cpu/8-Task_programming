@@ -1,6 +1,4 @@
-﻿
-
-namespace task_8.Models
+﻿namespace task_8.Models
 {
     public class Model
     {
@@ -8,5 +6,12 @@ namespace task_8.Models
         public string secondPath { get; set; }
 
         public string fileText { get; set; }
+
+        public string action { get; set; }
+
+        public string fileName { get; set; }
+
+        public string date { get; set; }
+        public string time { get; set; }
     }
 }

@@ -38,11 +38,13 @@ namespace task_8
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.newText = new System.Windows.Forms.TextBox();
+            this.FIleName = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(69, 316);
+            this.button1.Location = new System.Drawing.Point(58, 399);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(252, 57);
             this.button1.TabIndex = 0;
@@ -52,7 +54,7 @@ namespace task_8
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(401, 316);
+            this.button2.Location = new System.Drawing.Point(390, 399);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(252, 57);
             this.button2.TabIndex = 1;
@@ -62,7 +64,7 @@ namespace task_8
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(698, 316);
+            this.button3.Location = new System.Drawing.Point(687, 399);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(252, 57);
             this.button3.TabIndex = 2;
@@ -105,7 +107,7 @@ namespace task_8
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(181, 184);
+            this.label3.Location = new System.Drawing.Point(181, 249);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(45, 20);
             this.label3.TabIndex = 7;
@@ -113,16 +115,34 @@ namespace task_8
             // 
             // newText
             // 
-            this.newText.Location = new System.Drawing.Point(232, 184);
+            this.newText.Location = new System.Drawing.Point(232, 249);
             this.newText.Name = "newText";
             this.newText.Size = new System.Drawing.Size(641, 27);
             this.newText.TabIndex = 8;
+            // 
+            // FIleName
+            // 
+            this.FIleName.Location = new System.Drawing.Point(233, 183);
+            this.FIleName.Name = "FIleName";
+            this.FIleName.Size = new System.Drawing.Size(641, 27);
+            this.FIleName.TabIndex = 9;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(102, 183);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(124, 20);
+            this.label4.TabIndex = 10;
+            this.label4.Text = "Название файла";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1040, 602);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.FIleName);
             this.Controls.Add(this.newText);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -150,6 +170,8 @@ namespace task_8
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox newText;
+        private System.Windows.Forms.TextBox FIleName;
+        private System.Windows.Forms.Label label4;
     }
 }
 

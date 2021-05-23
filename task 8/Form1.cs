@@ -42,6 +42,50 @@ namespace task_8
             }
         }
 
+        public string actionFile
+        {
+            get
+            {
+                return actionFile;
+            }
+            set
+            {
+                actionFile = value;
+            }
+        }
+        public string fileNameText {
+            get
+            {
+                return FIleName.Text;
+            }
+            set
+            {
+                FIleName.Text = value;
+            }
+        }
+
+        public string dateInfo
+        {
+            get
+            {
+                return dateInfo;
+            }
+            set
+            {
+                dateInfo = value;
+            }
+        }
+        public string timeInfo {
+            get
+            {
+                return timeInfo;
+            }
+            set
+            {
+                timeInfo = value;
+            }
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             ModelPresenter modelPresenter = new ModelPresenter(this);

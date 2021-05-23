@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rusla\\Desktop\\Рабочая папка\\programming\\task 8\\task 8\\task 8.csproj": {}
+    "C:\\Users\\rusla\\Source\\Repos\\8-Task_programming\\task 8\\task 8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rusla\\Desktop\\Рабочая папка\\programming\\task 8\\task 8\\task 8.csproj": {
+    "C:\\Users\\rusla\\Source\\Repos\\8-Task_programming\\task 8\\task 8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rusla\\Desktop\\Рабочая папка\\programming\\task 8\\task 8\\task 8.csproj",
+        "projectUniqueName": "C:\\Users\\rusla\\Source\\Repos\\8-Task_programming\\task 8\\task 8.csproj",
         "projectName": "task 8",
-        "projectPath": "C:\\Users\\rusla\\Desktop\\Рабочая папка\\programming\\task 8\\task 8\\task 8.csproj",
+        "projectPath": "C:\\Users\\rusla\\Source\\Repos\\8-Task_programming\\task 8\\task 8.csproj",
         "packagesPath": "C:\\Users\\rusla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rusla\\Desktop\\Рабочая папка\\programming\\task 8\\task 8\\obj\\",
+        "outputPath": "C:\\Users\\rusla\\Source\\Repos\\8-Task_programming\\task 8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rusla\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,16 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Nancy": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
